@@ -11,8 +11,7 @@ npm install
 
 npx expo prebuild
 
-Then open the file  ios/speech2text.xcworkspace using Xcode
-you can a.type "open ios/speech2text.xcworkspace" in terminal  OR
+Then open the file  ios/speech2text.xcworkspace using Xcode：you can a.type "open ios/speech2text.xcworkspace" in terminal  OR
         b.Direct open it in Finder 
 
 After open the xcworkspace in Xcode 
