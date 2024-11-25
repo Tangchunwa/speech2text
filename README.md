@@ -19,7 +19,8 @@ After open the xcworkspace in Xcode <br>
 
 7. click  project name and "sign&capabilities" set Team name and bundle indentifier<br>
 
-<img width="971" alt="Screenshot 2024-11-22 at 13 37 17" src="https://github.com/user-attachments/assets/f90d344e-3215-4dbb-936c-d2ae40d0bfbc"><br>
+<img width="1012" alt="Screenshot 2024-11-25 at 16 11 17" src="https://github.com/user-attachments/assets/412ff0dc-728a-41a3-ab82-388ca97b7cc3"><br>
+
 
 8. Finally choose your device (local ios device),Run it .<br>
 
